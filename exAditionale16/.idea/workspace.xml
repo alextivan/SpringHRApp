@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed8f9bc1-95ba-4a3f-a2bf-f5d324c10358" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/Ex01Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/src/main/java/Ex01Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/src/test/java/Ex01CodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/target/classes/Ex01Code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ex01Code/target/test-classes/Ex01CodeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/ExAditionale13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExAditionale13/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/ExerciseEncapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/out/production/ExerciseEncapsulation/com/company/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/src/com/company/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExerciseEncapsulation/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/lesson1/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/lesson1/task1/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/lesson1/task1/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/lesson1/task1/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/lesson1/task1/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java Course/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/Main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/out/production/Main/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/RoEvening20Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/out/production/RoEvening20Encapsulation/com/sda/java/advanced/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/out/production/RoEvening20Encapsulation/com/sda/java/advanced/Canine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/out/production/RoEvening20Encapsulation/com/sda/java/advanced/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/out/production/RoEvening20Encapsulation/com/sda/java/advanced/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/out/production/RoEvening20Encapsulation/com/sda/java/advanced/Wolf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/out/production/RoEvening20Encapsulation/com/sda/java/advanced/Zebra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/src/com/sda/java/advanced/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/src/com/sda/java/advanced/Canine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/src/com/sda/java/advanced/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/src/com/sda/java/advanced/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/src/com/sda/java/advanced/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RoEvening20Encapsulation/src/com/sda/java/advanced/Zebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/6.7/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task01/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task01/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task01.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task01/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task01.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task02/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task02/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task02.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task02/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task02.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task03/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task03/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task03.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task03/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task03.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task04/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task04/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task04.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task04/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task04.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task05/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task05/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task05.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task05/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task05.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task06/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task06/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task06.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task06/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task06.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task07/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task07/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task07.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task07/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task07.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task08/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task08/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task08.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task08/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task08.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task09/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task09/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task09.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task09/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task09.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task10/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task10/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task10.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task10/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task10.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task11/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task11/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task11.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task11/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task11.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task12/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task12/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task12.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task12/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task12.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task13/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task13/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task13.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task13/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task13.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task14/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task14/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task14.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task14/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task14.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task15/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task15/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task15.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task15/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task15.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task16/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task16/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task16.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task16/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task16.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task17/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task17/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task17.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task17/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task17.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task18/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task18/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task18.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task18/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task18.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task19/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task19/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task19.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task19/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task19.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task20/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task20/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task20.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals - coding/Tasks/task20/SDA_Java_EN.Java_Fundamentals_-_coding-Tasks-task20.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/First quiz/SDA_Java_EN.Java_Fundamentals-Introduction-First_quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/First quiz/SDA_Java_EN.Java_Fundamentals-Introduction-First_quiz.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/First quiz/SDA_Java_EN.Java_Fundamentals-Introduction-First_quiz.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/First task/SDA_Java_EN.Java_Fundamentals-Introduction-First_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/First task/SDA_Java_EN.Java_Fundamentals-Introduction-First_task.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/First task/SDA_Java_EN.Java_Fundamentals-Introduction-First_task.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/Hello world/SDA_Java_EN.Java_Fundamentals-Introduction-Hello_world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/Hello world/SDA_Java_EN.Java_Fundamentals-Introduction-Hello_world.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Introduction/Hello world/SDA_Java_EN.Java_Fundamentals-Introduction-Hello_world.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question01/SDA_Java_EN.Java_Fundamentals-Quiz-question01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question01/SDA_Java_EN.Java_Fundamentals-Quiz-question01.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question01/SDA_Java_EN.Java_Fundamentals-Quiz-question01.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question02/SDA_Java_EN.Java_Fundamentals-Quiz-question02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question02/SDA_Java_EN.Java_Fundamentals-Quiz-question02.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question02/SDA_Java_EN.Java_Fundamentals-Quiz-question02.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question03/SDA_Java_EN.Java_Fundamentals-Quiz-question03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question03/SDA_Java_EN.Java_Fundamentals-Quiz-question03.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question03/SDA_Java_EN.Java_Fundamentals-Quiz-question03.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question04/SDA_Java_EN.Java_Fundamentals-Quiz-question04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question04/SDA_Java_EN.Java_Fundamentals-Quiz-question04.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question04/SDA_Java_EN.Java_Fundamentals-Quiz-question04.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question05/SDA_Java_EN.Java_Fundamentals-Quiz-question05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question05/SDA_Java_EN.Java_Fundamentals-Quiz-question05.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question05/SDA_Java_EN.Java_Fundamentals-Quiz-question05.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question06/SDA_Java_EN.Java_Fundamentals-Quiz-question06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question06/SDA_Java_EN.Java_Fundamentals-Quiz-question06.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question06/SDA_Java_EN.Java_Fundamentals-Quiz-question06.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question07/SDA_Java_EN.Java_Fundamentals-Quiz-question07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question07/SDA_Java_EN.Java_Fundamentals-Quiz-question07.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question07/SDA_Java_EN.Java_Fundamentals-Quiz-question07.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question08/SDA_Java_EN.Java_Fundamentals-Quiz-question08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question08/SDA_Java_EN.Java_Fundamentals-Quiz-question08.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question08/SDA_Java_EN.Java_Fundamentals-Quiz-question08.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question09/SDA_Java_EN.Java_Fundamentals-Quiz-question09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question09/SDA_Java_EN.Java_Fundamentals-Quiz-question09.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question09/SDA_Java_EN.Java_Fundamentals-Quiz-question09.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question10/SDA_Java_EN.Java_Fundamentals-Quiz-question10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question10/SDA_Java_EN.Java_Fundamentals-Quiz-question10.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question10/SDA_Java_EN.Java_Fundamentals-Quiz-question10.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question11/SDA_Java_EN.Java_Fundamentals-Quiz-question11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question11/SDA_Java_EN.Java_Fundamentals-Quiz-question11.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question11/SDA_Java_EN.Java_Fundamentals-Quiz-question11.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question12/SDA_Java_EN.Java_Fundamentals-Quiz-question12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question12/SDA_Java_EN.Java_Fundamentals-Quiz-question12.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question12/SDA_Java_EN.Java_Fundamentals-Quiz-question12.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question13/SDA_Java_EN.Java_Fundamentals-Quiz-question13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question13/SDA_Java_EN.Java_Fundamentals-Quiz-question13.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question13/SDA_Java_EN.Java_Fundamentals-Quiz-question13.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question14/SDA_Java_EN.Java_Fundamentals-Quiz-question14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question14/SDA_Java_EN.Java_Fundamentals-Quiz-question14.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question14/SDA_Java_EN.Java_Fundamentals-Quiz-question14.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question15/SDA_Java_EN.Java_Fundamentals-Quiz-question15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question15/SDA_Java_EN.Java_Fundamentals-Quiz-question15.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question15/SDA_Java_EN.Java_Fundamentals-Quiz-question15.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question16/SDA_Java_EN.Java_Fundamentals-Quiz-question16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question16/SDA_Java_EN.Java_Fundamentals-Quiz-question16.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question16/SDA_Java_EN.Java_Fundamentals-Quiz-question16.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question17/SDA_Java_EN.Java_Fundamentals-Quiz-question17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question17/SDA_Java_EN.Java_Fundamentals-Quiz-question17.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question17/SDA_Java_EN.Java_Fundamentals-Quiz-question17.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question18/SDA_Java_EN.Java_Fundamentals-Quiz-question18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question18/SDA_Java_EN.Java_Fundamentals-Quiz-question18.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question18/SDA_Java_EN.Java_Fundamentals-Quiz-question18.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question19/SDA_Java_EN.Java_Fundamentals-Quiz-question19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question19/SDA_Java_EN.Java_Fundamentals-Quiz-question19.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question19/SDA_Java_EN.Java_Fundamentals-Quiz-question19.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question20/SDA_Java_EN.Java_Fundamentals-Quiz-question20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question20/SDA_Java_EN.Java_Fundamentals-Quiz-question20.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question20/SDA_Java_EN.Java_Fundamentals-Quiz-question20.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question21/SDA_Java_EN.Java_Fundamentals-Quiz-question21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question21/SDA_Java_EN.Java_Fundamentals-Quiz-question21.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question21/SDA_Java_EN.Java_Fundamentals-Quiz-question21.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question22/SDA_Java_EN.Java_Fundamentals-Quiz-question22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question22/SDA_Java_EN.Java_Fundamentals-Quiz-question22.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question22/SDA_Java_EN.Java_Fundamentals-Quiz-question22.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question23/SDA_Java_EN.Java_Fundamentals-Quiz-question23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question23/SDA_Java_EN.Java_Fundamentals-Quiz-question23.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question23/SDA_Java_EN.Java_Fundamentals-Quiz-question23.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question24/SDA_Java_EN.Java_Fundamentals-Quiz-question24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question24/SDA_Java_EN.Java_Fundamentals-Quiz-question24.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Quiz/question24/SDA_Java_EN.Java_Fundamentals-Quiz-question24.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task01/SDA_Java_EN.Java_Fundamentals-Tasks-task01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task01/SDA_Java_EN.Java_Fundamentals-Tasks-task01.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task01/SDA_Java_EN.Java_Fundamentals-Tasks-task01.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task02/SDA_Java_EN.Java_Fundamentals-Tasks-task02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task02/SDA_Java_EN.Java_Fundamentals-Tasks-task02.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task02/SDA_Java_EN.Java_Fundamentals-Tasks-task02.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task03/SDA_Java_EN.Java_Fundamentals-Tasks-task03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task03/SDA_Java_EN.Java_Fundamentals-Tasks-task03.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task03/SDA_Java_EN.Java_Fundamentals-Tasks-task03.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task04/SDA_Java_EN.Java_Fundamentals-Tasks-task04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task04/SDA_Java_EN.Java_Fundamentals-Tasks-task04.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task04/SDA_Java_EN.Java_Fundamentals-Tasks-task04.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task05/SDA_Java_EN.Java_Fundamentals-Tasks-task05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task05/SDA_Java_EN.Java_Fundamentals-Tasks-task05.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task05/SDA_Java_EN.Java_Fundamentals-Tasks-task05.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task06/SDA_Java_EN.Java_Fundamentals-Tasks-task06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task06/SDA_Java_EN.Java_Fundamentals-Tasks-task06.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task06/SDA_Java_EN.Java_Fundamentals-Tasks-task06.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task07/SDA_Java_EN.Java_Fundamentals-Tasks-task07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task07/SDA_Java_EN.Java_Fundamentals-Tasks-task07.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task07/SDA_Java_EN.Java_Fundamentals-Tasks-task07.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task08/SDA_Java_EN.Java_Fundamentals-Tasks-task08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task08/SDA_Java_EN.Java_Fundamentals-Tasks-task08.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task08/SDA_Java_EN.Java_Fundamentals-Tasks-task08.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task09/SDA_Java_EN.Java_Fundamentals-Tasks-task09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task09/SDA_Java_EN.Java_Fundamentals-Tasks-task09.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task09/SDA_Java_EN.Java_Fundamentals-Tasks-task09.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task10/SDA_Java_EN.Java_Fundamentals-Tasks-task10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task10/SDA_Java_EN.Java_Fundamentals-Tasks-task10.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task10/SDA_Java_EN.Java_Fundamentals-Tasks-task10.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task11/SDA_Java_EN.Java_Fundamentals-Tasks-task11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task11/SDA_Java_EN.Java_Fundamentals-Tasks-task11.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task11/SDA_Java_EN.Java_Fundamentals-Tasks-task11.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task12/SDA_Java_EN.Java_Fundamentals-Tasks-task12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task12/SDA_Java_EN.Java_Fundamentals-Tasks-task12.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task12/SDA_Java_EN.Java_Fundamentals-Tasks-task12.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task13/SDA_Java_EN.Java_Fundamentals-Tasks-task13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task13/SDA_Java_EN.Java_Fundamentals-Tasks-task13.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task13/SDA_Java_EN.Java_Fundamentals-Tasks-task13.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task14/SDA_Java_EN.Java_Fundamentals-Tasks-task14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task14/SDA_Java_EN.Java_Fundamentals-Tasks-task14.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task14/SDA_Java_EN.Java_Fundamentals-Tasks-task14.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task15/SDA_Java_EN.Java_Fundamentals-Tasks-task15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task15/SDA_Java_EN.Java_Fundamentals-Tasks-task15.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task15/SDA_Java_EN.Java_Fundamentals-Tasks-task15.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task16/SDA_Java_EN.Java_Fundamentals-Tasks-task16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task16/SDA_Java_EN.Java_Fundamentals-Tasks-task16.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task16/SDA_Java_EN.Java_Fundamentals-Tasks-task16.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task17/SDA_Java_EN.Java_Fundamentals-Tasks-task17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task17/SDA_Java_EN.Java_Fundamentals-Tasks-task17.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task17/SDA_Java_EN.Java_Fundamentals-Tasks-task17.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task18/SDA_Java_EN.Java_Fundamentals-Tasks-task18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task18/SDA_Java_EN.Java_Fundamentals-Tasks-task18.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task18/SDA_Java_EN.Java_Fundamentals-Tasks-task18.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task19/SDA_Java_EN.Java_Fundamentals-Tasks-task19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task19/SDA_Java_EN.Java_Fundamentals-Tasks-task19.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task19/SDA_Java_EN.Java_Fundamentals-Tasks-task19.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task20/SDA_Java_EN.Java_Fundamentals-Tasks-task20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task20/SDA_Java_EN.Java_Fundamentals-Tasks-task20.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/Java Fundamentals/Tasks/task20/SDA_Java_EN.Java_Fundamentals-Tasks-task20.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/SDA_Java_EN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/util/SDA_Java_EN.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/util/SDA_Java_EN.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/.idea/modules/util/SDA_Java_EN.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task01/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task01/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task01/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task01/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task01/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task02/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task02/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task02/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task02/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task02/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task03/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task03/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task03/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task03/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task03/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task04/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task04/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task04/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task04/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task04/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task05/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task05/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task05/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task05/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task05/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task06/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task06/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task06/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task06/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task06/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task07/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task07/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task07/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task07/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task07/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task08/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task08/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task08/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task08/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task08/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task09/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task09/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task09/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task09/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task09/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task10/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task10/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task10/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task10/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task10/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task11/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task11/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task11/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task11/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task11/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task12/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task12/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task12/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task12/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task12/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task13/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task13/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task13/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task13/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task13/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task14/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task14/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task14/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task14/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task14/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task15/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task15/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task15/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task15/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task15/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task16/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task16/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task16/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task16/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task16/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task17/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task17/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task17/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task17/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task17/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task18/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task18/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task18/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task18/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task18/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task19/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task19/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task19/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task19/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task19/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task19/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task20/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task20/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task20/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task20/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/Tasks/task20/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals - coding/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/First quiz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/First quiz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/First quiz/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/First task/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/First task/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/First task/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/First task/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/Hello world/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/Hello world/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/Hello world/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/Hello world/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/Hello world/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Introduction/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question01/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question01/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question02/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question02/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question03/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question03/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question04/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question04/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question05/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question05/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question05/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question06/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question06/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question07/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question07/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question08/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question08/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question08/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question09/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question09/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question09/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question10/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question10/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question11/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question11/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question12/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question12/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question13/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question13/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question14/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question14/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question15/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question15/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question16/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question16/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question16/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question17/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question17/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question18/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question18/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question19/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question19/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question20/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question20/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question20/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question21/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question21/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question21/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question22/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question22/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question22/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question23/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question23/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question23/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question24/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question24/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Quiz/question24/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task01/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task01/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task01/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task01/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task02/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task02/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task02/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task02/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task03/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task03/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task03/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task03/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task04/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task04/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task04/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task04/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task05/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task05/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task05/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task05/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task06/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task06/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task06/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task06/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task07/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task07/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task07/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task07/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task08/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task08/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task08/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task08/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task09/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task09/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task09/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task09/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task10/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task10/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task10/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task10/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task11/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task11/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task11/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task11/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task12/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task12/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task12/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task12/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task13/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task13/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task13/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task13/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task14/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task14/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task14/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task14/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task15/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task15/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task15/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task15/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task16/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task16/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task16/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task16/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task17/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task17/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task17/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task17/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task18/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task18/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task18/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task18/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task19/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task19/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task19/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task19/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task20/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task20/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task20/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/Tasks/task20/test/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/Java Fundamentals/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SDA Java EN/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/SeccondPrjTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/src/test/java/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/src/test/java/TestClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/target/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeccondPrjTest/target/test-classes/TestClass1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/Tema 2 operatori.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/out/production/Tema 2 operatori/com/company/Aritmetica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/out/production/Tema 2 operatori/com/company/Logica.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/out/production/Tema 2 operatori/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/src/com/company/Aritmetica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/src/com/company/Logica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tema 2 operatori/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/Ex01maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/src/main/java/Ex01code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/src/test/java/Ex01codeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/target/surefire-reports/Ex01codeTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/target/surefire-reports/TEST-Ex01codeTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ex01maven/target/test-classes/Ex01codeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/exAditionale 18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 18/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 21/exAditionale 21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale 22/exAditionale 22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale14/exAditionale14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/exAditionale15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exAditionale15/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exAditionale16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitii 8 9 10/exercitii 8 9 10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitiiInheritanceCurs/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitiiInheritanceCurs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitiiInheritanceCurs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitiiInheritanceCurs/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitiiInheritanceCurs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitiiInheritanceCurs/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercitiiInheritanceCurs/untitled104.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/first project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/out/production/first project/com/company/Angajat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/out/production/first project/com/company/Companie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/out/production/first project/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/out/production/first project/com/company/Persoana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/src/com/company/Angajat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/src/com/company/Companie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first project/src/com/company/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/com/company/entitati/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/com/company/servicii/FonduriEuropene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/com/company/servicii/GhiseuPermise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fonduri europene profu/src/fonduri europene profu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/hello world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello world/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_remote20_fundamentals_exercises-master/Coding_exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myFirstJUnitProject/myFirstJUnitProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task10/task10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task13/task13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task14/task14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/out/production/task2/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../task2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema 2 operatori profu/tema 2 operatori profu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/out/production/tema1/com/company/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/out/production/tema1/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/out/production/tema1/com/company/cabinetVet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/src/com/company/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/src/com/company/cabinetVet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema1/tema1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/out/production/tema3 arrays/com/company/ArrayUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/out/production/tema3 arrays/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/src/com/company/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 arrays/tema3 arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/out/production/tema3 statment/com/company/Consola.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/out/production/tema3 statment/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/src/com/company/Consola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema3 statment/tema3 statment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/out/production/tema5 FonduriEuropene/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/out/production/tema5 FonduriEuropene/com/company/entitati/Persoana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/out/production/tema5 FonduriEuropene/com/company/servicii/FonduriEuropene.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/out/production/tema5 FonduriEuropene/com/company/servicii/GhiseuPermise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/src/com/company/entitati/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/src/com/company/servicii/FonduriEuropene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/src/com/company/servicii/GhiseuPermise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema5 FonduriEuropene/tema5 FonduriEuropene.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/out/production/tema6 formatare text/com/company/FormatorPagina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/out/production/tema6 formatare text/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/src/com/company/FormatorPagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 formatare text/tema6 formatare text.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 profu/src/com/company/FormatorPagina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tema6 profu/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste git/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teste06Martie/teste06Martie.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pRDrqaK4wMVCTb5ufSlO9kxIVK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RoEvening20Encapsulation" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="exAditionale16" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8f9bc1-95ba-4a3f-a2bf-f5d324c10358" name="Default Changelist" comment="" />
+      <created>1615137213659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615137213659</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
